@@ -1,0 +1,42 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment files
+.env
+*.env
+
+# Package management
+*.egg-info/
+.eggs/
+pip-log.txt
+
+# VSCode
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# Logs
+*.log
+
+# Jupyter notebooks (if any)
+*.ipynb
+
+# Conda
+*.conda
+*.yml
+
+# Local data or secrets
+config.json

@@ -1,0 +1,8 @@
+# Third-party libraries
+google-generativeai
+
+# Standard library modules (included with Python, listed here for clarity)
+# json
+# os
+# sys
+# tkinter
